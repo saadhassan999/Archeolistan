@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div>
+        <img class="homepage-img img-fluid" src="~/images/princess of hope.jpg" alt="princess of hope" />
+        <p class="homepage-img-rectangle"></p>
+        <p class="homepage-img-rectangle-text">Connecting <strong>Pakistan’s Archaeology</strong></p>
+        <p class="homepage-img-rectangle-text-1">with your tours</p>
+        <input type="button" class="homepage-explore-button" value="Explore" onclick="location.href='@Url.Action("Explore", "Home")'"  />
+    </div>
+    <div class="hompepage-events-section">
+        <div class="row">
+            <div class="col-md-4 event-text">
+                EVENTS
+            </div>
+            <div class="col-md-4">
+               <a asp-action="Exhibition" asp-controller="Home"><img class="museum-exhibits-img" src="~/images/museum-exhibits.jpg" alt="museum-exhibits" /></a> 
+                <p class="museum-exhibits-text">7 April 2021</p>
+                <p class="museum-exhibits-text-1">Museum Exhibits</p>
+            </div>
+            <div class="col-md-4">
+                <img class="heritage-walk-img" src="~/images/heritage-walk.JPG" alt="heritage-walk" />
+                <p class="heritage-walk-text">
+                    15 Oct 2021
+                </p>
+                <p class="heritage-walk-text-1">
+                    Heritage Walk
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="homepage-news-section">
+        <p class="news-and-update-text">NEWS & UPDATES</p>
+        <img class="excavations-img" src="~/images/excavations.png" alt="excavations" />
+        <p class="excavations-img-rectangle"></p>
+        <p class="excavations-img-rectangle-text">Excavations at Gorgathri</p>
+        <p class="excavations-img-rectangle-text-1">Peshawar</p>
+        <button type="button" class="excavations-learn-more-button">Learn more</button>
+        <p class="skills-img-rectangle"></p>
+        <p class="skills-img-rectangle-text">The 2000 years old</p>
+        <p class="skills-img-rectangle-text-1">skills</p>
+        <button type="button" class="skills-watch-vidoes-button">Watch Videos</button>
+        <img class="skills-img" src="~/images/skills.png" alt="skills" />
+        <img class="contribute-img" src="~/images/contribute.png" alt="contribute" />
+        <p class="contribute-img-rectangle"></p>
+        <p class="contribute-img-rectangle-text">Contribute to Our Past’s</p>
+        <p class="contribute-img-rectangle-text-1">Future</p>
+        <button type="button" class="contribute-join-today-button">Join Today</button>
+    </div>
+    <div class="homepage-email-section">
+        <p class="email-rectangle"></p>
+        <p class="email-rectangle-text">
+            Make your inbox historically rich
+        </p>
+        <input class="email-input-area form-control" type="email" aria-describedby="emailHelp" placeholder="Enter your Email or Sign Up">
+    </div>
+</div>

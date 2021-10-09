@@ -1,0 +1,1021 @@
+﻿.homepage-img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 103px;
+}
+
+.homepage-img-rectangle {
+    position: absolute;
+    width: 40%;
+    height: 90%;
+    left: 55%;
+    top: 103px;
+    background: rgba(92, 127, 157, 0.69);
+}
+
+.homepage-img-rectangle-text {
+    position: absolute;
+    width: 35%;
+    height: 30%;
+    left: 58%;
+    top: 341px;
+    font-style: normal;
+    font-size: 31px;
+    line-height: 50px;
+    color: #FFFFFF;
+}
+
+.homepage-img-rectangle-text-1 {
+    position: absolute;
+    width: 35%;
+    height: 30%;
+    left: 58%;
+    top: 395px;
+    font-style: normal;
+    /*font-weight: 600;*/
+    font-size: 40px;
+    line-height: 50px;
+    color: #FFFFFF;
+}
+
+.homepage-explore-button {
+    position: absolute;
+    width: 90px;
+    height: 38px;
+    left: 58%;
+    top: 471px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    background: bottom;
+    color: #FFFFFF;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+.hompepage-events-section {
+    position: absolute;
+    /*width: 187px;
+    height: 60px;
+    left: 141px;*/
+    top: 1058px;
+    /* font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    color: #605C5C;*/
+}
+
+.event-text {
+    /*position: absolute;*/
+    width: 187px;
+    height: 60px;
+    /*    left: 0%;
+    top: -1%;*/
+    margin-top: 107px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    color: #605C5C;
+}
+
+.museum-exhibits-img {
+    position: absolute;
+    width: 378px;
+    height: 420px;
+    left: 339%;
+    top: -39%;
+}
+
+.museum-exhibits-text {
+    position: absolute;
+    width: 127px;
+    height: 30px;
+    left: 339%;
+    top: 229%;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.museum-exhibits-text-1 {
+    position: absolute;
+    width: 229px;
+    height: 35px;
+    left: 339%;
+    top: 249%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    color: #605C5C;
+}
+
+.heritage-walk-img {
+    position: absolute;
+    width: 336px;
+    height: 420px;
+    left: 729%;
+    top: -39%;
+}
+
+.heritage-walk-text {
+    position: absolute;
+    width: 229px;
+    height: 35px;
+    left: 729%;
+    top: 228%;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 35px;
+    color: #605C5C;
+}
+
+.heritage-walk-text-1 {
+    position: absolute;
+    width: 229px;
+    height: 35px;
+    left: 729%;
+    top: 247%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    color: #605C5C;
+}
+
+.news-and-update-text {
+    position: absolute;
+    width: 422px;
+    height: 60px;
+    left: 501px;
+    top: 1785px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 47px;
+    line-height: 60px;
+    color: #605C5C;
+}
+
+.excavations-img {
+    position: absolute;
+    width: 517px;
+    height: 359px;
+    left: 218px;
+    top: 1935px;
+}
+
+.excavations-img-rectangle {
+    position: absolute;
+    width: 517px;
+    height: 359px;
+    left: 743px;
+    top: 1935px;
+    background: rgba(227, 234, 250, 0.64);
+}
+
+.excavations-img-rectangle-text {
+    position: absolute;
+    width: 361px;
+    height: 70px;
+    left: 821px;
+    top: 2058px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #716767;
+}
+
+.excavations-img-rectangle-text-1 {
+    position: absolute;
+    width: 361px;
+    height: 70px;
+    left: 821px;
+    top: 2098px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #716767;
+}
+
+.excavations-learn-more-button {
+    position: absolute;
+    width: 122px;
+    height: 35px;
+    left: 824px;
+    top: 2156px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: bottom;
+    color: #000000;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+.skills-img-rectangle {
+    position: absolute;
+    width: 517px;
+    height: 359px;
+    left: 205px;
+    top: 2422px;
+    background: rgba(227, 234, 250, 0.64);
+}
+
+.skills-img-rectangle-text {
+    position: absolute;
+    width: 284px;
+    height: 70px;
+    left: 287px;
+    top: 2536px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #716767;
+}
+
+.skills-img-rectangle-text-1 {
+    position: absolute;
+    width: 284px;
+    height: 70px;
+    left: 287px;
+    top: 2566px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #716767;
+}
+
+.skills-watch-vidoes-button {
+    position: absolute;
+    width: 141px;
+    height: 35px;
+    left: 287px;
+    top: 2629px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: bottom;
+    color: #000000;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+.skills-img {
+    position: absolute;
+    width: 525px;
+    height: 359px;
+    left: 716px;
+    top: 2422px;
+}
+
+.contribute-img {
+    position: absolute;
+    width: 522px;
+    height: 359px;
+    left: 194px;
+    top: 2909px;
+}
+
+.contribute-img-rectangle {
+    position: absolute;
+    width: 517px;
+    height: 359px;
+    left: 716px;
+    top: 2909px;
+    background: rgba(227, 234, 250, 0.64);
+}
+
+.contribute-img-rectangle-text {
+    position: absolute;
+    width: 360px;
+    height: 70px;
+    left: 821px;
+    top: 3054px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #716767;
+}
+
+.contribute-img-rectangle-text-1 {
+    position: absolute;
+    width: 360px;
+    height: 70px;
+    left: 821px;
+    top: 3094px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #716767;
+}
+
+.contribute-join-today-button {
+    position: absolute;
+    width: 120px;
+    height: 35px;
+    left: 821px;
+    top: 3149px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: bottom;
+    color: #000000;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+.email-rectangle {
+    position: absolute;
+    width: 100%;
+    height: 184px;
+    left: 0px;
+    top: 3396px;
+    background: #F07747;
+}
+
+.email-rectangle-text {
+    position: absolute;
+    width: 517px;
+    height: 44px;
+    left: 106px;
+    top: 3466px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.email-input-area {
+    position: absolute;
+    width: 674px;
+    height: 70px;
+    left: 641px;
+    top: 3453px;
+    background: #FFFFFF;
+    border-radius: 7px;
+}
+
+.archeology-footer {
+    position: absolute;
+    width: 100%;
+    height: 426px;
+    left: 0px;
+    top: 3746px;
+    background: #7088AC;
+}
+
+.archeology-footer-logo {
+    position: absolute;
+    left: 16%;
+    top: 32%;
+}
+
+.archeology-footer-text {
+    position: absolute;
+    left: 61%;
+    top: 32%;
+    font-size: 27px;
+    color: #FFFFFF;
+}
+
+.archeology-footer-text-1 {
+    position: absolute;
+    left: 61%;
+    top: 44%;
+    font-size: 27px;
+    color: #FFFFFF;
+}
+
+.archeology-footer-text-2 {
+    position: absolute;
+    left: 61%;
+    top: 57%;
+    font-size: 27px;
+    color: #FFFFFF;
+}
+
+.archeology-footer-text-3 {
+    position: absolute;
+    left: 61%;
+    top: 70%;
+    font-size: 27px;
+    color: #FFFFFF;
+}
+
+.hiran-minar-img {
+    position: absolute;
+    width: 1440px;
+    height: 653px;
+    left: 0px;
+    top: 110px;
+}
+
+.explore-img {
+    position: absolute;
+    width: 1440px;
+    height: 653px;
+    left: 0px;
+    top: 110px;
+    background: rgba(72, 70, 70, 0.38);
+}
+
+.where-to-search-field input {
+    position: absolute;
+    width: 674px;
+    height: 70px;
+    left: 383px;
+    top: 437px;
+    background: rgba(255, 255, 255, 0.87);
+    border-radius: 7px;
+    padding-left: 26px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 35px;
+    color: #716767;
+    border: none;
+}
+
+.where-to-search-field button {
+    position: absolute;
+    width: 95px;
+    height: 43px;
+    left: 959px;
+    top: 445px;
+    border: none;
+    color: #716767;
+    font-size: xx-large;
+}
+
+div.row a {
+    color: #605C5C;
+}
+
+.explore-cities {
+    position: absolute;
+    width: 77px;
+    height: 53px;
+    left: 338px;
+    top: 893px;
+    font-size: 42px;
+    line-height: 52px;
+}
+
+.city-dropdown {
+    border: none;
+    background: white;
+}
+
+.cities-names {
+    text-align: center;
+    display: block;
+}
+
+.explore-logistics {
+    position: absolute;
+    width: 173px;
+    height: 53px;
+    left: 596px;
+    top: 893px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 52px;
+    color: #605C5C;
+}
+
+.eplore-duration {
+    position: absolute;
+    width: 167px;
+    height: 53px;
+    left: 914px;
+    top: 893px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 52px;
+    color: #605C5C;
+}
+
+.bhawalpur-img {
+    position: absolute;
+    width: 355px;
+    height: 500px;
+    left: 47px;
+    top: 1101px;
+}
+
+.peshawar-img {
+    position: absolute;
+    width: 355px;
+    height: 500px;
+    left: 71px;
+    top: 1101px;
+}
+
+.karachi-img {
+    position: absolute;
+    width: 355px;
+    height: 500px;
+    left: 98px;
+    top: 1101px;
+}
+
+.bhawalpur-img-txt {
+    position: absolute;
+    width: 281px;
+    height: 31px;
+    left: 90px;
+    top: 1635px;
+    font-style: normal;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.peshawar-img-txt {
+    position: absolute;
+    width: 262px;
+    height: 31px;
+    left: 125px;
+    top: 1635px;
+    font-style: normal;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.karachi-img-txt {
+    position: absolute;
+    width: 356px;
+    height: 31px;
+    left: 106px;
+    top: 1635px;
+    font-style: normal;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.topics-and-forums {
+    position: absolute;
+    width: 547px;
+    height: 50px;
+    left: 447px;
+    top: 1937px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    color: #201C1C;
+}
+
+.topics-rectangle-1 {
+    position: absolute;
+    width: 381px;
+    height: 176px;
+    left: 122px;
+    top: 2045px;
+    background: #EDF2FC;
+    border-radius: 8px;
+}
+
+.topics-rectangle-2 {
+    position: absolute;
+    width: 382px;
+    height: 176px;
+    left: 529px;
+    top: 2045px;
+    background: #EDF2FC;
+    border-radius: 8px;
+}
+
+.topics-rectangle-3 {
+    position: absolute;
+    width: 381px;
+    height: 176px;
+    left: 937px;
+    top: 2045px;
+    background: #EDF2FC;
+    border-radius: 8px;
+}
+
+.topics-rectangle-1-text-1 {
+    position: absolute;
+    width: 272px;
+    height: 31px;
+    left: 27px;
+    top: 42px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.topics-rectangle-1-text-2 {
+    position: absolute;
+    width: 194px;
+    height: 52px;
+    left: 27px;
+    top: 89px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.topics-rectangle-2-text-1 {
+    position: absolute;
+    width: 272px;
+    height: 31px;
+    left: 31px;
+    top: 42px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.topics-rectangle-2-text-2 {
+    position: absolute;
+    width: 194px;
+    height: 52px;
+    left: 31px;
+    top: 89px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.topics-rectangle-3-text-1 {
+    position: absolute;
+    width: 272px;
+    height: 31px;
+    left: 31px;
+    top: 42px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.topics-rectangle-3-text-2 {
+    position: absolute;
+    width: 194px;
+    height: 52px;
+    left: 31px;
+    top: 89px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.androon-lahore-img-1 {
+    position: absolute;
+    width: 325px;
+    height: 464px;
+    left: 1px;
+    top: 2423px;
+}
+
+.androon-lahore-img-2 {
+    position: absolute;
+    width: 325px;
+    height: 464px;
+    left: -17px;
+    top: 2423px;
+}
+
+.more-to-explore-txt {
+    position: absolute;
+    width: 304px;
+    height: 50px;
+    left: 929px;
+    top: 2715px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 39px;
+    line-height: 50px;
+    color: #201C1C;
+}
+
+.androon-lahore-img-1-txt {
+    position: absolute;
+    width: 299px;
+    height: 90px;
+    left: 1px;
+    top: 2909px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.androon-lahore-img-2-txt {
+    position: absolute;
+    width: 299px;
+    height: 90px;
+    left: -17px;
+    top: 2909px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.noor-mahal-img {
+    position: absolute;
+    width: 952px;
+    height: 502px;
+    left: 146px;
+    top: 200px;
+}
+
+.noor-mahal-txt {
+    position: absolute;
+    width: 236px;
+    height: 156px;
+    left: 146px;
+    top: 792px;
+    font-style: normal;
+    font-size: 43px;
+    line-height: 90px;
+    color: #000000;
+}
+
+.noor-mahal-para {
+    position: absolute;
+    width: 1171px;
+    height: 212px;
+    left: 146px;
+    top: 1022px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 40px;
+    text-align: justify;
+    color: #000000;
+}
+
+.noor-mahal-rect {
+    position: absolute;
+    width: 100%;
+    height: 256px;
+    left: 0px;
+    top: 1237px;
+    background: #EDF2FC;
+}
+
+.noor-mahal-rect-txt {
+    position: absolute;
+    width: 167px;
+    height: 48px;
+    left: 148px;
+    top: 1279px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 47px;
+    color: #000000;
+}
+
+.noor-mahal-rect-txt-1 {
+    position: absolute;
+    width: 232px;
+    height: 40px;
+    left: 150px;
+    top: 1375px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: justify;
+    color: #000000;
+}
+
+.noor-mahal-rect-txt-2 {
+    position: absolute;
+    width: 186px;
+    height: 24px;
+    left: 402px;
+    top: 1380px;
+    font-size: x-large;
+}
+
+.noor-mahal-rect-txt-3 {
+    position: absolute;
+    width: 254px;
+    height: 40px;
+    left: 585px;
+    top: 1375px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: justify;
+    color: #000000;
+}
+
+.noor-mahal-rect-txt-4 {
+    position: absolute;
+    width: 186px;
+    height: 24px;
+    left: 857px;
+    top: 1380px;
+    font-size: x-large;
+}
+
+.noor-mahal-rect-txt-5 {
+    position: absolute;
+    width: 166px;
+    height: 40px;
+    left: 1042px;
+    top: 1378px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: justify;
+    color: #000000;
+}
+
+.architecture-txt {
+    position: absolute;
+    width: 217px;
+    height: 48px;
+    left: 146px;
+    top: 1540px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 47px;
+    color: #000000;
+}
+
+.architecture-txt-1 {
+    position: absolute;
+    width: 690px;
+    height: 354px;
+    left: 148px;
+    top: 1616px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: justify;
+    color: #000000;
+}
+
+.things-to-see-txt {
+    position: absolute;
+    width: 232px;
+    height: 48px;
+    left: 146px;
+    top: 1970px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 47px;
+    color: #000000;
+}
+
+.things-to-see-txt-1 {
+    position: absolute;
+    width: 692px;
+    height: 320px;
+    left: 146px;
+    top: 2046px;
+    font-family: Gothic A1;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: justify;
+    color: #000000;
+}
+
+.gallery-img {
+    position: absolute;
+    width: 335px;
+    height: 522px;
+    left: 975px;
+    top: 1575px;
+}
+
+.arrow-img {
+    position: absolute;
+    width: 32px;
+    height: 46.22px;
+    left: 1093px;
+    top: 1330px;
+}
+
+.meuseum-txt {
+    position: absolute;
+    width: 529px;
+    height: 43px;
+    left: 135px;
+    top: 290px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.meuseum-txt-1 {
+    position: absolute;
+    width: 529px;
+    height: 43px;
+    left: 450px;
+    top: 298px;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.exhibition-arrow-img {
+    position: absolute;
+    width: 32px;
+    height: 46px;
+    left: 135px;
+    top: 388px;
+}
+
+.meuseum-txt-2 {
+    position: absolute;
+    width: 314px;
+    height: 43px;
+    left: 203px;
+    top: 391px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.ticket-button {
+    position: absolute;
+    width: 140px;
+    height: 62px;
+    left: 137px;
+    top: 527px;
+    color: white;
+    background: #F07747;
+    border-radius: 8px;
+    font-size: x-large;
+    border: none;
+}
+
+.detail-txt {
+    position: absolute;
+    width: 114px;
+    height: 43px;
+    left: 140px;
+    top: 674px;
+    font-family: Gothic A1;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.detail-txt-1 {
+    position: absolute;
+    width: 1184px;
+    height: 200px;
+    left: 140px;
+    top: 756px;
+    font-family: Gothic A1;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    line-height: 40px;
+    text-align: justify;
+    color: #605C5C;
+}

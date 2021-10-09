@@ -1,0 +1,108 @@
+﻿
+@{
+    ViewData["Title"] = "Explore";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div>
+        <img class="hiran-minar-img img-fluid" src="~/images/hiran minaar.png" alt="hiran-minar-image" />
+        <img class="explore-img img-fluid" src="~/images/explore-Rectangle.png" alt="hiran-minar-rectangle" />
+        <form class="where-to-search-field">
+            <input type="search" placeholder="Where to?">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </form>
+    </div>
+    <div>
+        <div class="row">
+            <div class="col-md-4 explore-cities">
+                <div class="">
+                    <button class="city-dropdown" data-toggle="dropdown" data-hover="dropdown" >
+                        City 
+                    </button>
+                    <ul class="dropdown-menu ">
+                        <li class="cities-names"><a href="#">Karachi</a></li>
+                        <li class="cities-names"><a asp-controller="Home" asp-action="Bhawalpur">Bahawalpur</a></li>
+                        <li class="cities-names"><a href="#">Faislabad</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4 explore-logistics">
+                <a href="#">Logistics</a>
+            </div>
+            <div class="col-md-4 eplore-duration">
+                <a href="#">
+                    Duration
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 explore-cities-img">
+                <img class="bhawalpur-img" src="~/images/bhawalpur.png" alt="bhawalpur" />
+                <p class="bhawalpur-img-txt">
+                    Noor Mehal, <strong>Bahawalpur</strong>
+                </p>
+            </div>
+            <div class="col-md-4 explore-logistics-img">
+                <img class="peshawar-img" src="~/images/peshawar.png" alt="peshawar"/>
+                <p class="peshawar-img-txt">
+                    Sethi House, <strong>Peshawar</strong>
+                </p>
+            </div>
+            <div class="col-md-4 eplore-duration-img">
+                <img class="karachi-img" src="~/images/karachi.png" alt="karachi" />
+                <p class="karachi-img-txt">
+                    Muncipal Coorporation, <strong>Karachi</strong>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div>
+        <p class="topics-and-forums">
+            Trending topics on the forum
+        </p>
+        <div class="row">
+            <div class="col-md-4 topics-rectangle-1">
+                <p class="topics-rectangle-1-text-1">
+                    Rohtas fort visit at night
+                </p>
+                <p class="topics-rectangle-1-text-2">
+                    by <strong>Sabahat Momina</strong><br /> 2 Replies
+                </p>
+            </div>
+            <div class="col-md-4 topics-rectangle-2">
+                <p class="topics-rectangle-2-text-1">
+                    Qilla baala hisaar permission
+                </p>
+                <p class="topics-rectangle-2-text-2">
+                    by <strong>Sabahat Momina</strong><br /> 2 Replies
+                </p>
+            </div>
+            <div class="col-md-4 topics-rectangle-3">
+                <p class="topics-rectangle-3-text-1">
+                    Islamia college photography
+                </p>
+                <p class="topics-rectangle-3-text-2">
+                    by <strong>Sabahat Momina</strong><br /> 2 Replies
+                </p>
+            </div>
+        </div>
+    </div>
+<div>
+    <div class="row">
+        <div class="col-md-4 ">
+            <img class="androon-lahore-img-1" src="~/images/androon lahore 1.png" alt="androon lahore 1" />
+            <p class="androon-lahore-img-1-txt">7 Reasons why you should visit walled city Lahore in winter</p>
+        </div>
+        <div class="col-md-4">
+            <img class="androon-lahore-img-2" src="~/images/androon lahore 2.png" alt="androon lahore 2"/>
+            <p class="androon-lahore-img-2-txt">The food street of karachi and it’s hidden archaeological gems.</p>
+        </div>
+        <div class="col-md-4 more-to-explore-txt">
+            <p>
+                More to Explore
+            </p>
+        </div>
+    </div>
+</div>
+</div>
