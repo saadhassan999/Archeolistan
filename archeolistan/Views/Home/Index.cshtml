@@ -17,12 +17,14 @@
                 EVENTS
             </div>
             <div class="col-md-4">
-               <a asp-action="Exhibition" asp-controller="Home"><img class="museum-exhibits-img" src="~/images/museum-exhibits.jpg" alt="museum-exhibits" /></a> 
+                <a asp-action="Exhibition" asp-controller="Home"><img class="museum-exhibits-img" src="~/images/museum-exhibits.jpg" alt="museum-exhibits" /></a>
                 <p class="museum-exhibits-text">7 April 2021</p>
                 <p class="museum-exhibits-text-1">Museum Exhibits</p>
             </div>
             <div class="col-md-4">
-                <img class="heritage-walk-img" src="~/images/heritage-walk.JPG" alt="heritage-walk" />
+                <a asp-action="" asp-controller="">
+                    <img class="heritage-walk-img" src="~/images/heritage-walk.JPG" alt="heritage-walk" />
+                </a>
                 <p class="heritage-walk-text">
                     15 Oct 2021
                 </p>
@@ -55,6 +57,10 @@
         <p class="email-rectangle-text">
             Make your inbox historically rich
         </p>
+        <button class="join-community-btn">
+            Join Community
+        </button>
+        <p class="para-join-community">Join your city’s community to help preserve and promote Archaeology of your city.</p>
         <input class="email-input-area form-control" type="email" aria-describedby="emailHelp" placeholder="Enter your Email or Sign Up">
     </div>
 </div>

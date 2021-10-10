@@ -338,9 +338,9 @@
 .email-rectangle {
     position: absolute;
     width: 100%;
-    height: 184px;
+    height: 342px;
     left: 0px;
-    top: 3396px;
+    top: 3356px;
     background: #F07747;
 }
 
@@ -348,8 +348,8 @@
     position: absolute;
     width: 517px;
     height: 44px;
-    left: 106px;
-    top: 3466px;
+    left: 154px;
+    top: 3604px;
     font-style: normal;
     font-weight: 500;
     font-size: 35px;
@@ -359,10 +359,10 @@
 
 .email-input-area {
     position: absolute;
-    width: 674px;
+    width: 621px;
     height: 70px;
     left: 641px;
-    top: 3453px;
+    top: 3591px;
     background: #FFFFFF;
     border-radius: 7px;
 }
@@ -907,7 +907,6 @@ div.row a {
     height: 320px;
     left: 146px;
     top: 2046px;
-    font-family: Gothic A1;
     font-style: normal;
     font-weight: 300;
     font-size: 30px;
@@ -997,7 +996,6 @@ div.row a {
     height: 43px;
     left: 140px;
     top: 674px;
-    font-family: Gothic A1;
     font-style: normal;
     font-weight: bold;
     font-size: 34px;
@@ -1011,11 +1009,378 @@ div.row a {
     height: 200px;
     left: 140px;
     top: 756px;
-    font-family: Gothic A1;
     font-style: normal;
     font-weight: normal;
     font-size: 29px;
     line-height: 40px;
     text-align: justify;
     color: #605C5C;
+}
+
+.partnerships-txt {
+    position: absolute;
+    width: 245px;
+    height: 50px;
+    left: 568px;
+    top: 3215px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    color: #201C1C;
+}
+
+.partnership-image-1 {
+    position: absolute;
+    width: 198px;
+    height: 198px;
+    left: 205px;
+    top: 3339px;
+}
+
+.partnership-image-2 {
+    position: absolute;
+    width: 252px;
+    height: 223px;
+    left: 570px;
+    top: 3325px;
+}
+
+.partnership-image-3 {
+    position: absolute;
+    width: 221px;
+    height: 184px;
+    top: 3345px;
+    left: 935px;
+}
+
+.train-guide-image {
+    position: absolute;
+    width: 130%;
+    height: 384px;
+    left: -120px;
+    top: 53px;
+}
+
+.train-rectangle-image {
+    position: absolute;
+    width: 130%;
+    height: 384px;
+    left: -120px;
+    top: 53px;
+}
+
+.pacakages-image {
+    position: absolute;
+    width: 113%;
+    height: 384px;
+    left: 45px;
+    top: 53px;
+}
+
+.package-rectangle-image {
+    position: absolute;
+    width: 113%;
+    height: 384px;
+    left: 45px;
+    top: 53px;
+}
+
+.train-guide-txt {
+    position: absolute;
+    width: 405px;
+    height: 60px;
+    left: 17px;
+    top: 228px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+
+.city-dropdown-btn {
+    position: absolute;
+    width: 205px;
+    height: 62px;
+    left: 119px;
+    top: 300px;
+    color: white;
+    background: #F07747;
+    border-radius: 8px;
+    font-size: x-large;
+    border: none;
+}
+
+.package-txt {
+    position: absolute;
+    width: 298px;
+    height: 69px;
+    left: 241px;
+    top: 228px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 69px;
+    color: #FFFFFF;
+}
+
+.city-dropdown-btn-1 {
+    position: absolute;
+    width: 205px;
+    height: 62px;
+    left: 284px;
+    top: 300px;
+    color: white;
+    background: #F07747;
+    border-radius: 8px;
+    font-size: x-large;
+    border: none;
+}
+
+.tour-guider-1 {
+    position: absolute;
+    width: 176px;
+    height: 122px;
+    top: 711px;
+    left: 149px;
+}
+
+.tour-guider-2 {
+    position: absolute;
+    width: 152px;
+    height: 152px;
+    left: 158px;
+    top: 980px;
+}
+
+.tour-guider-3 {
+    position: absolute;
+    width: 172px;
+    height: 172px;
+    left: 146px;
+    top: 1264px;
+}
+
+.tour-guider-4 {
+    position: absolute;
+    width: 172px;
+    height: 172px;
+    left: 146px;
+    top: 1264px;
+}
+
+.tour-guider-txt-1 {
+    position: absolute;
+    width: 144px;
+    height: 30px;
+    left: 155px;
+    top: 839px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.tour-guider-txt-2 {
+    position: absolute;
+    width: 165px;
+    height: 30px;
+    left: 155px;
+    top: 1151px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.tour-guider-txt-3 {
+    position: absolute;
+    width: 145px;
+    height: 30px;
+    left: 159px;
+    top: 1448px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.tour-guider-para-1 {
+    position: absolute;
+    width: 201px;
+    height: 150px;
+    left: 389px;
+    top: 721px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.tour-guider-para-2 {
+    position: absolute;
+    width: 201px;
+    height: 150px;
+    left: 389px;
+    top: 1030px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.tour-guider-para-3 {
+    position: absolute;
+    width: 201px;
+    height: 150px;
+    left: 389px;
+    top: 1328px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.vertical-line {
+    position: absolute;
+    height: 3189px;
+    width: 1469px;
+    left: 719px;
+    top: 558px;
+    border-left: 1px solid #9EA2C6;
+}
+
+.pckg-a-rectangle {
+    position: absolute;
+    width: 489px;
+    height: 380px;
+    left: 793px;
+    top: 676px;
+    background: #DAE0EB;
+    border-radius: 8px;
+}
+
+.pckg-a-rectangle-txt {
+    position: absolute;
+    width: 166px;
+    height: 40px;
+    left: 972px;
+    top: 743px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.pckg-a-rectangle-para {
+    position: absolute;
+    width: 234px;
+    height: 120px;
+    left: 843px;
+    top: 836px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.pckg-a-rectangle-para-1 {
+    position: absolute;
+    width: 146px;
+    height: 90px;
+    left: 1104px;
+    top: 851px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.pckg-b-rectangle {
+    position: absolute;
+    width: 489px;
+    height: 380px;
+    left: 793px;
+    top: 1106px;
+    background: #DAE0EB;
+    border-radius: 8px;
+}
+
+.pckg-b-rectangle-txt {
+    position: absolute;
+    width: 166px;
+    height: 40px;
+    left: 972px;
+    top: 1173px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.pckg-b-rectangle-para {
+    position: absolute;
+    width: 166px;
+    height: 40px;
+    left: 843px;
+    top: 1258px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.pckg-b-rectangle-para-1 {
+    position: absolute;
+    width: 146px;
+    height: 120px;
+    left: 1104px;
+    top: 1277px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.join-community-btn {
+    position: absolute;
+    width: 308px;
+    height: 62px;
+    left: 198px;
+    top: 3454px;
+    border: none;
+    background: #FFFFFF;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 47px;
+    color: #F07747;
+}
+
+.para-join-community {
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 656px;
+    top: 3431px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 34px;
+    line-height: 47px;
+    text-align: center;
+    color: #FFFFFF;
 }
